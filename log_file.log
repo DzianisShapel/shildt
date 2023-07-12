@@ -1,0 +1,38 @@
+2023-05-05 13:18:42 INFO  Log:26 - ------- Started test: 
+2023-05-05 13:18:42 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:18:42 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:18:43 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:18:43 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:18:43 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:18:43 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:18:43 INFO  Log:26 - ------- Finished test:
+2023-05-05 13:21:10 INFO  Log:26 - ------- Started test: 
+2023-05-05 13:21:10 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:21:10 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:21:10 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:21:10 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:21:10 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:21:10 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:21:10 INFO  Log:26 - ------- Finished test:
+2023-05-05 13:22:46 INFO  Log:26 - ------- Started test: 
+2023-05-05 13:22:46 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:27:32 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:27:32 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:27:32 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:27:32 INFO  Log:26 - ------- Finished test:
+2023-05-05 13:27:37 INFO  Log:26 - ------- Started test: 
+2023-05-05 13:27:37 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:58:15 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:58:15 INFO  Log:26 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:58:15 ERROR Log:47 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 13:58:15 INFO  Log:26 - ------- Finished test:
