@@ -1,4 +1,4 @@
-package baeldung.utils;
+package variables.utils;
 
 import org.apache.log4j.Logger;
 

@@ -1,5 +1,5 @@
 import baeldung.jdbc.DBConnection;
-import baeldung.utils.Log;
+import variables.utils.Log;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;

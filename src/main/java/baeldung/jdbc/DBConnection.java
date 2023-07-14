@@ -1,6 +1,6 @@
 package baeldung.jdbc;
 
-import baeldung.utils.Log;
+import variables.utils.Log;
 
 
 import java.sql.*;
